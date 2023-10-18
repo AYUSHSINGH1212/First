@@ -10,3 +10,8 @@ int main(){int i;
      a={2,13};      // a=make_pair(2,"AYUSH");
     //   cout<<a.first<<" "<<a.second<<endl; 
 pair<int,pair<int,int>>s;
+
+s={2,{9,8}};
+       // Swap of pairs 
+
+// swap(a,s);
