@@ -1,0 +1,12 @@
+// STL {Standard Template Library }
+
+
+#include<bits/stdc++.h>
+using namespace std; 
+            // Pair
+int main(){int i;
+    // Taking Numbers in pair
+    pair<int,int>a;
+     a={2,13};      // a=make_pair(2,"AYUSH");
+    //   cout<<a.first<<" "<<a.second<<endl; 
+pair<int,pair<int,int>>s;
