@@ -17,4 +17,5 @@ s={2,{9,8}};
 // swap(a,s);
 // cout<<s.first<<" "<<s.second.second<<" "<<endl;
      // Array Decleration as Vector
+ t[0]={1,3};
 
