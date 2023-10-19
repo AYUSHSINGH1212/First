@@ -19,4 +19,6 @@ s={2,{9,8}};
      // Array Decleration as Vector
 
 pair<int,int>t[3];
+t[1]={2,7};
+     t[2]={7,9};
 
